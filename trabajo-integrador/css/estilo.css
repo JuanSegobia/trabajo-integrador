@@ -35,7 +35,8 @@
 }
 
 .btn-danger{
-  background-color: #de1d22;
+color: white;
+background-color: #de1d22;
 }
 .fa-dna{
   color: white;
@@ -49,4 +50,7 @@
 }
 .fa-trophy{
   color: white;
+}
+.footer{
+  background-color: black;
 }
